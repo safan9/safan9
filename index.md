@@ -1,1 +1,3 @@
-## Welcome to my website
+- 👋 Hi, I’m Safwan Bapu.
+- 👀 I’m interested in Web & Mobile App Developement.
+- 🌱 I’m currently learning Laravel.
